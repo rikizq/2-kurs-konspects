@@ -11,14 +11,12 @@
             "id": "da8d89ef8126268e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2 курс РПО - Konspect/Компьютерные сети/Физические среды передачи данных.md",
-                "mode": "source",
-                "source": false
+                "file": "2 курс РПО - Konspect/Фотографии/Pasted image 20261005133337.png"
               },
-              "icon": "lucide-file",
-              "title": "Физические среды передачи данных"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261005133337"
             }
           }
         ]
@@ -188,15 +186,15 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "da8d89ef8126268e",
+  "active": "9285d373d57bb0da",
   "lastOpenFiles": [
-    "Pasted image 20261005133342.png",
-    "Pasted image 20261005133337.png",
-    "Pasted image 20261005133311.png",
-    "Pasted image 20261005133258.png",
-    "Pasted image 20261005133246.png",
-    "2 курс РПО - Konspect/База данных SQL/Нормализация данных.md",
     "2 курс РПО - Konspect/Компьютерные сети/Физические среды передачи данных.md",
+    "2 курс РПО - Konspect/Фотографии/Pasted image 20261005133342.png",
+    "2 курс РПО - Konspect/Фотографии/Pasted image 20261005133337.png",
+    "Pasted image 20261005133311.png",
+    "2 курс РПО - Konspect/Фотографии/Pasted image 20261005133258.png",
+    "2 курс РПО - Konspect/Фотографии/Pasted image 20261005133246.png",
+    "2 курс РПО - Konspect/База данных SQL/Нормализация данных.md",
     "2 курс РПО - Konspect/База данных SQL/Реляционная алгебра.md",
     "2 курс РПО - Konspect/База данных SQL/Основные этапы проектирования БД.md",
     "2 курс РПО - Konspect/База данных SQL/Основные понятия теории Базы Данных.md",
@@ -222,7 +220,6 @@
     "2 курс РПО - Konspect/Фотографии/Pasted image 20260923152307.png",
     "2 курс РПО - Konspect/Фотографии/Pasted image 20260923152253.png",
     "2 курс РПО - Konspect/Фотографии/Pasted image 20260923152245.png",
-    "2 курс РПО - Konspect/Фотографии/Pasted image 20260923152233.png",
     "2 курс РПО - Konspect/Фотографии/Pasted image 20260923151922.pdf",
     "2 курс РПО - Konspect/Фотографии/Pasted image 20260923093250 (1) 1.pdf",
     "2 курс РПО - Konspect/С++/Коды на домашку 1.10/Задание 4.md",
